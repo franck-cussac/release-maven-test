@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>test</groupId>
   <artifactId>maven-release-test</artifactId>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
 
   <properties>
     <scala.version>2.11.8</scala.version>
@@ -11,7 +11,6 @@
   <scm>
     <url>scm:git:git@github.com:franck-cussac/release-maven-test.git</url>
     <connection>scm:git:git@github.com:franck-cussac/release-maven-test.git</connection>
-    <tag>maven-release-test-1.0</tag>
   </scm>
 
   <dependencies>
