@@ -9,8 +9,8 @@
   </properties>
 
   <scm>
-    <url>scm:git://codefactory.blvs.io/franck.cussac/maven-release-test</url>
-    <connection>scm:git://codefactory.blvs.io/franck.cussac/maven-release-test</connection>
+    <url>scm:git://github.com/franck-cussac/release-maven-test</url>
+    <connection>scm:git://github.com/franck-cussac/release-maven-test</connection>
   </scm>
 
   <dependencies>
